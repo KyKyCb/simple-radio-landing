@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/simpleradio/static/css/main.f855e6bc.css",
-    "main.js": "/simpleradio/static/js/main.fb391a9c.js",
-    "static/media/logo.svg": "/simpleradio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/simpleradio/index.html",
-    "main.f855e6bc.css.map": "/simpleradio/static/css/main.f855e6bc.css.map",
-    "main.fb391a9c.js.map": "/simpleradio/static/js/main.fb391a9c.js.map"
+    "main.css": "/simple-radio-landing/static/css/main.f855e6bc.css",
+    "main.js": "/simple-radio-landing/static/js/main.46bd96f8.js",
+    "static/media/logo.svg": "/simple-radio-landing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/simple-radio-landing/index.html",
+    "main.f855e6bc.css.map": "/simple-radio-landing/static/css/main.f855e6bc.css.map",
+    "main.46bd96f8.js.map": "/simple-radio-landing/static/js/main.46bd96f8.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.fb391a9c.js"
+    "static/js/main.46bd96f8.js"
   ]
 }
